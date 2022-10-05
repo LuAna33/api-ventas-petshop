@@ -9,6 +9,6 @@ public class HolaMundoController {
     @GetMapping("/")
     public String helloWorld()
     {
-        return "Hola Mundo con SpringBoot";
+        return "Probando nombre Hola Mundo con SpringBoot";
     }
 }
